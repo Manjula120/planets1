@@ -1,4 +1,1 @@
-i love mars
-mars is round
-Mars has life
-Mars has water
+i love git
